@@ -135,79 +135,7 @@
 	 -> Frontend UI
  ```
 
- ## 6. Module Breakdown and Team Assignment
-
- The assignments below are primarily for research and may evolve during implementation.
-
- ### Jahanvi - Image Loader
-
- Tasks:
-
- - Load PNG images
- - Resize large images
- - Validate input
-
- ### Kundan - Preprocessing
-
- Tasks:
-
- - Normalization using CLAHE
- - Denoising
- - Contrast enhancement
- - Research and evaluate additional preprocessing techniques
-
- ### Vishal - Feature Extraction
-
- Tasks:
-
- - ORB for the MVP
- - SuperPoint for the advanced version
- - Uniform feature distribution using a grid, ANMS, or another suitable approach
- - Select an appropriate algorithm based on research
-
- ### Vishal and Kundan - Matching
-
- Tasks:
-
- - BFMatcher for the MVP
- - SuperGlue integration for the advanced version
- - Select an appropriate matching algorithm based on research
-
- ### Kundan and Vishal - Geometry
-
- This is a critical module.
-
- Tasks:
-
- - RANSAC
- - Homography estimation
- - Image warping
-
- ### Kundan - Metrics
-
- Tasks:
-
- - RMSE calculation on inliers
- - Inlier ratio calculation
- - Compute-time measurement
-
- ### Kundan - Backend Integration
-
- Tasks:
-
- - FastAPI endpoint
- - Request and response schemas
- - Base64 conversion
-
- ### Ayush - Frontend
-
- Tasks:
-
- - Upload interface
- - Results display
- - Metrics display
-
- ## 7. API Design
+ ## 6. API Design
 
  ### Endpoint
 
@@ -235,6 +163,6 @@
  }
  ```
 
- ## 8. Guiding Principle
+ ## 7. Guiding Principle
 
  > We are engineers. We can do anything.
