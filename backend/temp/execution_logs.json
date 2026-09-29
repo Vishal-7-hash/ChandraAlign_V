@@ -1,0 +1,82 @@
+[
+  {
+    "id": "JOB-A039BD6C",
+    "timestamp": "2026-09-29 02:04:20 UTC",
+    "status": "SUCCESS",
+    "rmse": 0.0342,
+    "time": 13.3035,
+    "error": null
+  },
+  {
+    "id": "JOB-B9FA71D0",
+    "timestamp": "2026-09-28 13:44:39 UTC",
+    "status": "SUCCESS",
+    "rmse": 0.0342,
+    "time": 12.2164,
+    "error": null
+  },
+  {
+    "id": "JOB-20927F7B",
+    "timestamp": "2026-09-28 12:20:34 UTC",
+    "status": "SUCCESS",
+    "rmse": 0.0,
+    "time": 6.3458,
+    "error": null
+  },
+  {
+    "id": "JOB-760F39AB",
+    "timestamp": "2026-09-28 12:19:52 UTC",
+    "status": "SUCCESS",
+    "rmse": 0.0,
+    "time": 4.0145,
+    "error": null
+  },
+  {
+    "id": "JOB-49244939",
+    "timestamp": "2026-09-28 11:41:19 UTC",
+    "status": "FAILED",
+    "rmse": null,
+    "time": 338.9322,
+    "error": "OpenCV(5.0.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\core\\src\\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 2115698688 bytes in function 'cv::OutOfMemoryError'\n"
+  },
+  {
+    "id": "JOB-1E39D88F",
+    "timestamp": "2026-09-28 11:26:23 UTC",
+    "status": "FAILED",
+    "rmse": null,
+    "time": 3.8423,
+    "error": "OpenCV(5.0.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\features\\src\\sift.dispatch.cpp:512: error: (-5:Bad argument) image is empty or has incorrect depth (!=CV_8U) in function 'cv::SIFT_Impl::detectAndCompute'\n"
+  },
+  {
+    "id": "JOB-EC0AF30F",
+    "timestamp": "2026-09-28 11:25:23 UTC",
+    "status": "FAILED",
+    "rmse": null,
+    "time": 12.2795,
+    "error": "OpenCV(5.0.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\features\\src\\sift.dispatch.cpp:512: error: (-5:Bad argument) image is empty or has incorrect depth (!=CV_8U) in function 'cv::SIFT_Impl::detectAndCompute'\n"
+  },
+  {
+    "id": "JOB-CFB6587C",
+    "timestamp": "2026-09-28 11:21:11 UTC",
+    "status": "FAILED",
+    "rmse": null,
+    "time": 0.1225,
+    "error": "File 'nac_ff_png.png' exceeds maximum allowed size of 50MB"
+  },
+  {
+    "id": "JOB-13E74FC0",
+    "timestamp": "2026-09-28 06:57:48 UTC",
+    "status": "SUCCESS",
+    "rmse": 1.2116,
+    "time": 6.1554,
+    "error": null
+  },
+  {
+    "id": "JOB-124C01CE",
+    "timestamp": "2026-09-27 16:54:30 UTC",
+    "status": "SUCCESS",
+    "rmse": 1.2116,
+    "time": 11.0877,
+    "error": null
+  }
+]
