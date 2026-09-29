@@ -7,6 +7,7 @@ const apiClient = axios.create({
   headers: {
     'Accept': 'application/json',
   },
+  body: JSON.stringify(data)
 });
 
 /**
